@@ -1,0 +1,152 @@
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.pdb
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.exe
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.pdb
+C:\Users\PETER\Documents\SharpDevelop Projects\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\bin\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\bin\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\bin\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\bin\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowFormV2\TiendaOnline\obj\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\bin\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\bin\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowFormV3\TiendaOnline\obj\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\extras\POO\TP Integrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.pdb
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.exe
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\bin\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\TI_WindowForm\TiendaOnline\obj\Debug\TiendaOnline.pdb
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.exe
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.pdb
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.exe
+D:\peter\facultad\Fundamentos de la POO\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.pdb
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.exe
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.pdb
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.exe
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.pdb
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.csprojAssemblyReference.cache
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.csproj.CoreCompileInputs.cache
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\bin\Debug\TiendaOnline.pdb
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.exe
+C:\Users\PETER\Desktop\TI_WindowForm V2\TiendaOnline\obj\Debug\TiendaOnline.pdb
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\bin\Debug\TiendaOnline.exe.config
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\bin\Debug\TiendaOnline.exe
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\bin\Debug\TiendaOnline.pdb
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.csprojResolveAssemblyReference.cache
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.AgregarProdCarroForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.AgregarProductoForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.AgregarTarjetaForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.BonificarTarjetaForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.ClienteyPagoForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.MainForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.PromocionarProductoForm.resources
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.csproj.GenerateResource.Cache
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.exe
+D:\peter\facultad\POO C#\Codigo\TPIntegrador\TI_WindowForm V2.1\TiendaOnline\obj\Debug\TiendaOnline.pdb

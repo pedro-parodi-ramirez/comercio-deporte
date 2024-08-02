@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{F41151A2-C82A-40B4-8A2A-8AA3C9229641}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>TiendaOnline</RootNamespace>
+    <AssemblyName>TiendaOnline</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarProdCarroForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarProdCarroForm.Designer.cs">
+      <DependentUpon>AgregarProdCarroForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarProductoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarProductoForm.Designer.cs">
+      <DependentUpon>AgregarProductoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AgregarTarjetaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarTarjetaForm.Designer.cs">
+      <DependentUpon>AgregarTarjetaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BonificarTarjetaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BonificarTarjetaForm.Designer.cs">
+      <DependentUpon>BonificarTarjetaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ClaseCarro.cs" />
+    <Compile Include="ClaseCliente.cs" />
+    <Compile Include="ClaseFormaDePago.cs" />
+    <Compile Include="ClaseProducto.cs" />
+    <Compile Include="ClaseTarjeta.cs" />
+    <Compile Include="ClaseTienda.cs" />
+    <Compile Include="ClienteyPagoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClienteyPagoForm.Designer.cs">
+      <DependentUpon>ClienteyPagoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="PromocionarProductoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PromocionarProductoForm.Designer.cs">
+      <DependentUpon>PromocionarProductoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AgregarProdCarroForm.resx">
+      <DependentUpon>AgregarProdCarroForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarProductoForm.resx">
+      <DependentUpon>AgregarProductoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AgregarTarjetaForm.resx">
+      <DependentUpon>AgregarTarjetaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BonificarTarjetaForm.resx">
+      <DependentUpon>BonificarTarjetaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ClienteyPagoForm.resx">
+      <DependentUpon>ClienteyPagoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PromocionarProductoForm.resx">
+      <DependentUpon>PromocionarProductoForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
